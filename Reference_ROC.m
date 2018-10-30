@@ -1,4 +1,4 @@
-function Reference_ROC()
+function d_prime = Reference_ROC()
 
 % This function plots reference ROC curves that can be used to estimate
 % the discriminability index by plotting a point with (P(False Alarm),P(Hit))
